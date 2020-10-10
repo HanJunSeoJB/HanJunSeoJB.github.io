@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   address: >
     <p>010-4020-7867</p>
     <p>hjs123@jbnu.ac.kr</p>
