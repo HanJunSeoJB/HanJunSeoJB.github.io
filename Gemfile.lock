@@ -74,6 +74,7 @@ DEPENDENCIES
   bundler
   jekyll
   jekyll-paginate
+  tzinfo
   tzinfo-data
 
 BUNDLED WITH
